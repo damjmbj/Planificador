@@ -7,7 +7,7 @@ public class MainProse {
 
 		microProcesador();
 		PlanificadorFCFS.sirve();
-		System.out.println("Mod");
+		System.out.println("Mod mi cambio");
 	}
 
 	private static void microProcesador() {
